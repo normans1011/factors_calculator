@@ -13,7 +13,7 @@ def num_check (question, low):
             
             
             # checks number is more than zero
-            if response >=low:
+            if 1<= response >=200:
                 return response
 
             # outputs error if input is invalid
