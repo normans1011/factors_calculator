@@ -142,8 +142,10 @@ while keep_going == "":
     print()
     keep_going = input("Press <enter> to continue or any key to quit")
 
-    #vid at 3.05 (18_factors_part_1)
+    
 
+print()
+print("Thankyou for using the factors calculator")
 
 
 
